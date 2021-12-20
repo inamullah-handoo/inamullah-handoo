@@ -10,7 +10,7 @@
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3E863D?logo=nodejs&logoColor=white&style=flat" /> <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-2B2B2B?logo=express&logoColor=white&style=flat" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-429543?logo=mongodb&logoColor=white&style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-356A97?logo=python&logoColor=white&style=flat" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-7176ae?logo=php&logoColor=white&style=flat" /> 
 
 - 🔭 MERN and MEAN stack web developer
-- 🌱 I’m currently learning back-end web development using .net core
+- 🌱 I’m currently learning back-end web development using .Net Core and mobile app development using React Native
 - 👯 I’m looking to collaborate on web development
 
 #### My GitHub Stats
