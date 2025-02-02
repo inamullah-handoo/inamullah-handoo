@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Inamullah
 
-[![](https://visitcount.itsvg.in/api?id=inamullah-handoo&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=inamullah-handoo&color=brightgreen)
 
 # 💫 About Me:
 🎯 Senior Software Engineer | 4+ years of experience in full-stack development<br>🚀 Passionate about building high-performance web applications and optimising complex systems<br>🏆 Code Gladiators 2020 Semi Finalist
